@@ -1,0 +1,25 @@
+1 läd die Webseite
+2 Werden die zwei Temperaturen angezeigt
+3 Ändern sich die Temperaturen, wenn der Sensor in der Sonne steht (Lampe)
+4 Sind die Sonnenauf und Untergangszeiten realistisch?
+5 Werden Werte vom Lichtsensor angezeigt
+6 Läd die Regelnseite
+7 Passen die Werte
+8 lassen sich die Werte ändern -> nö
+9 Klingel ausgabe an Rolladoinos UND Pi (drei Pulse)
+10 Calmonitor prüfen
+11 Telefonsignal prüfen
+12 Klingelsignal prüfen
+
+
+todo:
+Sonnensensor: 2 Temp
+Dämmerungssensor: 
+Fritz Call Monitor piepser geht nicht aus
+Piepser an Pi falcher kanal
+Regeln edit debuggen
+RaspberryPi von 3 auf 5 updaten
+
+Immer um Mitternacht einen Puls für eine Sekunde ausgeben. GPIO an X22. Alle GPIOs configurierbar.
+
+In Goddelau umbauen!!!
